@@ -1,3 +1,5 @@
+ToDo: Program listings for July/August
+
 Rainbow July 1981
 -----------------
 No commercial software advertised.
@@ -11,6 +13,59 @@ Rainbow August 1981
 It's a monitor program and also acts as a terminal emulator. Review says it works with CompuServe.
 $29.95 on tape, $39.95 on ROM cartridge.
 [Page 5] Rumors saying the official Tandy floppy drive would be coming out August or September 1981.
-[Page 5] Review: JARBCODE, by Jarb Software, a text encryption program. $14.95. No format specified, probably tape?
+[Page 5] Review: JARBCODE, by JARB Software, a text encryption program. $14.95. No format specified, probably tape?
 [Page 6] Review: SIGMON, machine language monitor, mini-assembler/disassembler, debugger. $29.95, from DataSoft.
 [Page 7] Additional info on the Line Printer VII driver. Cassette filename is "FTFX16"
+
+Rainbow September 1981
+----------------------
+
+[Page 1] Advertisement for "LASER STAR" from JARB Software. $14.95 on cassette. Add $1 and you get "Helo Battle" as well, which
+will have a program listing be printed in the October 1981 issue of Rainbow.
+[Page 2] First editorial against software piracy.
+[Page 3] Review: Color Computer TEXT EDITOR/WORD PROCESSOR, by John Waclo. $49.95. Supports 16K and 32K.
+[Page 4] Program listing: GRADER 2.1, article title "Teacher's Helper, Student's Friend"
+[Page 7] Review: SDS80C. "The Microworks' Software Development System (SDS80C)" - Editor/Assembler/Monitor package. $89.95
+[Page 9] Program listing: PAT, "Psychic Aptitude Test", by JARB Software. Can also be purchased directly from JARB Software
+on cassette for $14.95. The tape will also include a copy of the "JARB Biorhythm" program.
+[Page 11] Program listing: LASER STAR from JARB Software.
+[Page 13] Program listing: Screen printer for Line Printer VII.
+[Page 14] Program listing: QUIZ by Falsoft.
+[Page 15] Advertisement from The MicroWorks.
+	Software Development System (SDS80C) on ROM cartridge for $89.95
+	Source Generator (80C Disassembler) on cassette. Disassembler. $49.95
+	"6809 Assembly Language Programming" by Lance Laventhal. Book. $16.95
+	PI80C Parallel Printer Interface for Color Computer. Adapter box, allows use of Centronics-connector printer. $89.95
+	CBUG Monitor on cassette for $29.95 and ROM cartridge for $39.95
+	32K RAM upgrade kit, uses 4116 200ns ICs. 4K-16K kit is $39.95. 16K-32K kit is $39.95, requires soldering.
+[Page 16] Review: S.E.C.S. (Screen Edit Control System) from DataSoft. $29.95 on tape. Adds line editing to non-Extended Basic.
+Also adds high-res graphics without Extended Basic and generates custom character set on the graphics screen.
+[Page 19] Review: MicroWorks RAM upgrade kits.
+
+
+Rainbow October 1981
+--------------------
+
+[Page 1] First international subscription came in from Canada.
+[Page 2] Review: CONFLICT, by Soft Sector Marketing. RISK clone. $14.95. Format not specified, probably tape.
+[Page 2] Program listing: Percentage change between two numbers.
+[Page 3] Program listing: Videoprinter by Al Morgan. Program to print from VideoTex.
+[Page 3] Program listing: Videoprinter by Jorge Mir. Program to print from VideoTex.
+(Yes, two separate programs here. Two different ways to do it.)
+[Page 4] Review: 80C Disassembler. $49.95 from The MicroWorks.
+[Page 7] Program listing: Screen Monitor. Small assembly program in BASIC (via POKEs) that monitors the screen buffer and
+outputs all text that appears to the printer.
+[Page 8] Program listing: Helo Battle. Game. Can be also purchased from JARB Software on tape for $14.95.
+[Page 9] Review: Color Space Invaders by Spectral Associates. $21.95.
+[Page 9] Program listing: Gin scoring program for the Hollywood variant of the card game.
+[Page 10] Program listing: Sticky Labels. Automate printing of Avery 4013 labels on the Line Printer VII.
+[Page 11] Advertisement from The MicroWorks.
+	Software Development System (SDS80C) on ROM cartridge for $89.95
+	Source Generator (80C Disassembler) on cassette. Disassembler. $49.95
+	"6809 Assembly Language Programming" by Lance Laventhal. Book. $16.95
+	PI80C Parallel Printer Interface for Color Computer. Adapter box, allows use of Centronics-connector printer. $89.95
+	CBUG Monitor on cassette for $29.95 and ROM cartridge for $39.95
+	32K RAM upgrade kit, uses 4116 200ns ICs. 4K-16K kit is $39.95. 16K-32K kit is $39.95, requires soldering.
+[Page 14] Advertisement from Falsoft for an upcoming adventure game, "Vampire". Beta version is $10.95 and needs 32K RAM,
+you can upgrade to the final version for the difference in cost. Final version is expected to be between $14.95 and $19.95.
+[Page 14] Advertisement for Color Computer-focused BBS. Bob Rosen's The Color Connection BBS. (212) 441-3755 in Woodhaven, NY.
