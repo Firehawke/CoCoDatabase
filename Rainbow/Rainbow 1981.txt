@@ -1,0 +1,16 @@
+Rainbow July 1981
+-----------------
+No commercial software advertised.
+Free upgrade for Line Printer VII via driver (obtain at Radio Shack) to allow the printer to print CoCo-compatible graphics characters.
+This driver is provided on tape.
+Subscription was $12/year.
+
+Rainbow August 1981
+-------------------
+[Page 3] Review: CBUG Monitor, available tape or ROM cartridge from The Microworks.
+It's a monitor program and also acts as a terminal emulator. Review says it works with CompuServe.
+$29.95 on tape, $39.95 on ROM cartridge.
+[Page 5] Rumors saying the official Tandy floppy drive would be coming out August or September 1981.
+[Page 5] Review: JARBCODE, by Jarb Software, a text encryption program. $14.95. No format specified, probably tape?
+[Page 6] Review: SIGMON, machine language monitor, mini-assembler/disassembler, debugger. $29.95, from DataSoft.
+[Page 7] Additional info on the Line Printer VII driver. Cassette filename is "FTFX16"
