@@ -1,0 +1,31 @@
+The notes you see here predate my project to go back through old magazines. This material will eventually be merged in with the magazine research.
+
+CoCo Newsroom / The Newspaper / The Newspaper Plus
+--------------------------------------------------
+From http://www.coco3.com/community/2008/05/thelda-game-creator-eric-a-wolf
+Coco Newsroom, later upgraded and called ‘The Newspaper’, then ‘The Newspaper Plus’. Possibly with an OS-9 version too).
+This is why the disks in CCA don't match TOSEC exactly; The disks in TOSEC are the older "CoCo Newsroom" release.
+Two of the disks (fonts, graphics) were the same in both, but The Newspaper contains an additional art (fonts and graphics) disk and a different program disk.
+
+In-program copyright notice:
+The Newspaper
+Eric A. Wolf
+Copyright (C) 1987 by EAW Products
+Licensed to Spectrum Projects
+
+
+
+CoCo MAX 3
+----------
+There's a version 3.5 disk that's specifically tagged 'hi-res adapter', is that a modified build or official?
+
+
+
+8-Bit Bartender
+---------------
+Pricky-Pear Software
+Referenced in Rainbow Magazine 1983-04, page 184, bottom right corner
+"Party fun. 100+ recipes"
+Requires 32K Extended Basic.
+So we know it was out before 1983-04.
+Program does NOT have a built-in copyright date or even really a title screen.
