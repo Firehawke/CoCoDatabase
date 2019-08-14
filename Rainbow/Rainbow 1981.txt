@@ -121,8 +121,8 @@ Rainbow December 1981 - https://archive.org/details/rainbowmagazine-1981-12
 		Space War
 		"Fast, machine language", "Ext. Basic not required."
 		$21.95 each on tape, $25.95 each on disk.
-	SoundSource. "Store music or voice from a cassette tape in the computer and display it on the TV screen. Shorten it, lengthen it, modify it
-		and replay through the TV's sound system. Build and test your own sounds for games. No hardware mods needed." $24.95
+	SoundSource. "Store music or voice from a cassette tape in the computer and display it on the TV screen. Shorten it, lengthen it,
+		modify it	and replay through the TV's sound system. Build and test your own sounds for games. No hardware mods needed." $24.95
 	The Facts. "At last, a complete description of the 'guts' of the Color Computer. Specs on ICs, schematics, theory,
 		programming examples." $14.95
 	Extended Basic games:
