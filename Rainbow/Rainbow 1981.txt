@@ -89,7 +89,7 @@ Rainbow November 1981 - https://archive.org/details/rainbowmagazine-1981-11
 [Page 8] Program listing: VIDEOAID. Upgrade to Videoprinter by Jorge Mir, adds download capability and more to VideoTex.
 [Page 8] Advertisement from Trans/Tech.
   "C. C. Writer" word processor for CoCo, works on 16K and 32K, selectable at runtime. Written in Extended Basic, advertised as
-	user-modifiable.
+	user-modifiable. $30.
 [Page 10] Article about the use of GET/PUT in graphics code in Extended Basic.
 [Page 12] Correction to Al Morgan's Videoprinter from previous month.
 [Page 13] Advertisement from The MicroWorks.

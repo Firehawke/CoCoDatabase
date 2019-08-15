@@ -1,0 +1,164 @@
+Rainbow January 1982 - https://archive.org/details/rainbowmagazine-1982-01
+--------------------
+
+[Page 1] Comparison of Word Processing packages on CoCo.
+	WordCC7 by Kathy Goebel, published by DSL Computer Products ($19.95)
+	C.C. Writer by L.W.C. Dye, published by Transformation Technologies ($30)
+	Telewriter by Howard Cohen, published by Cognitec ($49.95)
+	Text Editor/Word Processor by John Waclo ($49.95)
+[Page 2] Program listing: Card dealing subroutine by Wayne Diercks of Rainbow Connection Software.
+[Page 3] Program listing: BANKER. Checkbook balance program. Part 1 of Managing Our Money series (MOM #1)
+[Page 3] Advertisement for "colorcom/e" terminal program.
+	By Bob Rosen, published by Connection-80. (seems to be owned by him)
+	Location (Woodhaven, NY), name, and BBS phone number info matches up with The Color Connection BBS.
+	Features include:
+	Full online and offline scrolling, 1 or 12 lines at a time.
+	Selectable baud (300/600/1200) and parity. Full/half Duplex.
+	Can output to tape or printer as well as screen.
+	Automatic buffer open/close on hex codes (&H12 and &H14 respectively)
+	Read multiple download files from transmission.
+	Word mode eliminates split words.
+	Cost is $49.95 on ROM cartridge.
+[Page 5] Advertisement for "80-U.S. - The TRS-80 Users Journal"
+	Covers TRS-80 Model 1, 2, 3, CoCo, and Pocket Computer.
+	Business articles, program listings in both BASIC and ML, and reviews.
+	$16 for 1 year, $31 for 2 years, $45 for 3 years. Cover price would be $20/year.
+	Based out of Tacoma, Washington.
+[Page 6] Continuing the random number discussion from last month--
+	Program listing: Fantasy Role Playing character generation using random numbers.
+[Page 7] Advertisement from Transformation Technologies (previous ad showed as Trans/Tech)
+  "C. C. Writer" word processor for CoCo, works on 16K and 32K, selectable at runtime.
+	Allows ASCII codes to be inserted for block graphics to printer, and advertised as making the program compatible with any
+	printer.
+	** No longer advertised as written in Extended Basic or as user-modifiable. **
+	$35. Price went up $5 since November.
+[Page 8] Disk File Conversions. Discussion on what you need to change in your program to make it read/write to disks as
+	opposed to using tape.
+[Page 8] Advertisement from IMB (Illustrated Memory Banks)
+	Limited offer: mail in a SASE (Self-addressed stamped envelope) for their bonus game of the month for 16K CoCo when
+	you request their software list by mail.
+	16K Color Extended BASIC games on cassette tape:
+		Starbase Attack ($12.95)
+		Meteor Storm ($12.95)
+		Star Siege ($12.95)
+	Kosmic Kamikaze ("High speed arcade game", joysticks required) ($18.95)
+[Page 8] Advertisement from Snake Mountain Software
+	Graph Label -- 16K Extended BASIC - $7.95
+		Allows users to do graphics mode text, full cursor control, full ASCII charset.
+		Subscripts and superscripts supported.
+		Program can be used as subroutine or standalone.
+	Text Editor -- 16K Extended BASIC - $14.95
+		Full feature text editor with upper/lowercase. 42-char lines.
+		Adjustable tabs, text search/replace, block move.
+		Justification and proportional font support with Line Printer VII.
+	C.C. Pilot -- 4K or 16K - $4.95
+		Implementation of Pilot for CC. Features standard Pilot instructions with additional extensions for
+		the CoCo. Includes text editor and interpreter in one package. Comes with demo programs.
+	Fast Graphics Package -- All Machines -- $3.95
+		ML program that works twice as fast as Extended BASIC's graphics commands.
+		Line drawing, screen clearing, and pixel drawing commands.
+		Enables 4K machine to have a 128x64 graphics screen with 2K RAM free for BASIC use.
+[Page 8] Advertisement from Spectral Associates. Same ad as December 1981.
+	RAMCharger 32K Upgrade, go from 16K to 32K. $79.95.
+	CompuVoice speech synth program, interfaces with BASIC/ML. $44.95
+	Madness and the Minotaur adventure game, ML, no Extended Basic requirement. $19.95
+	New Extended Basic games:
+		Sub Hunt for $14.95
+		Laser Attack for $10.95
+		Alcatraz II for $8.95
+		CROID. Eliza-type AI game. $12.95
+	Extended Basic not-required:
+		Space Invaders
+		Space War
+		"Fast, machine language", "Ext. Basic not required."
+		$21.95 each on tape, $25.95 each on disk.
+	SoundSource. "Store music or voice from a cassette tape in the computer and display it on the TV screen. Shorten it, lengthen it,
+		modify it and replay through the TV's sound system. Build and test your own sounds for games. No hardware mods needed." $24.95
+	The Facts. "At last, a complete description of the 'guts' of the Color Computer. Specs on ICs, schematics, theory,
+		programming examples." $14.95
+	Extended Basic games:
+		Lothar's Labyrinth (word search puzzle)
+		Battlefleet (Battleship clone)
+		Space Traders (Galactic trading game)
+		$14.95 each.
+	Utilities:
+		Editor/Assembler is $34.95
+		Super Monitor is $19.95
+		EPROM Programmer is $89.95
+		Magic Box (load Model I/Model III tapes into CoCo) is $24.95
+		Typing Tutor is $19.95
+		Text editor.. no price listed.
+[Page 10] Program listing: OH, GOB! by Fred Scerbo of Illustrated Memory Banks.
+	Turkey-themed action game.
+[Page 12] Advertisement for Telewriter
+		Real lowercase. 51x24 screen. Epson MX-80 printer support.
+		Supports 16K and 32K (32K recommended, obviously.)
+		$49.95 by Cogitech of Del Mar, CA
+[Page 15] Review: BATTLEFLEET by Bob Sleath of Spectral Associates. $14.95
+[Page 16] Discussion on ML programming and the disk system, touching on relocatable code.
+[Page 16] Review: Twinpack of Compumind/Jackpot by Rainbow Connection Software.
+[Page 17] Advertisement from JARB Software
+	Laser Star and Helo Battle - $14.95
+	JARBCODE - $14.95
+	Psychic Aptitude Test and JARB Biorhythm - $14.95
+	JARB Printer Utility Kit - $14.95
+	Call or write for free catalog of available programs.
+	Rainbow subscribers get a $2 discount if they mention Rainbow.
+[Page 18] Advertisement for Colorterm by Martin Consulting.
+	Based out of Winnipeg, Canada.
+	Designed for 16K CoCo. Supports 51x21 and 64x21. Also supports lowercase.
+	300/110 Baud. User programmable keys. Key repeat. Dump files to host.
+	Reverse video. Partial screen clear. 4-way cursor control.
+	Save buffer, scroll through buffer.
+	Preserve a window of text, rest scrolls.
+	"Encode data for more secure storage" -- basic encryption?
+	Macro buffers for commonly sent output.
+	Patch own programs running above 9168 (23D0 hex) to use 51 or 64 column modes.
+	Comes on cassette with manual. US price is $34.95, Canada is $40.95
+[Page 19] Commentary from Al Morgan about how people should be optimizing their code better rather than getting more RAM.
+	Not the last time we'll hear this debate subject in the next 30 years...
+[Page 20] Software review: Galloping Gamblers from Illustrated Memory Banks. $18.95
+[Page 20] Advertisement from DSL Computer Products out of Dearborn, MI
+	WORDCC7 Word Processor for 16K/32K CoCo with LinePrinter VII. $19.95
+		Supports Uppercase/lowercase, uses both print sizes, easily user modified, variable width paper, menu driven.
+	MLRABBIT Tape backup program for CoCo. "MLRABBIT will copy any Machine Language or BASIC program for CoCo. Works with
+		any memory size, either BASIC type. Completely automatic. $14.95
+	16K Memory Chips - $25.00
+	16K to 32K solderless upgrade kit - $49.95
+	4K to 32K solderless upgrade kit - $74.95
+[Page 21] Program listing: REM-D-LEET. Removes REMark lines from CoCo programs to speed up execution speed.
+[Page 21] Advertisement from Sugar Software of Reynoldsburg, OH
+	Silly Syntax story game for 1-10 players. Create your own stories with the built-in editor or order story
+	tapes from selection below. Features include creating, modifying, printing, saving, and loading of stories.
+	Included is the main game, two stories, and user guide. $19.95. Requires Extended BASIC.
+	Silly Syntax story tapes:
+		Two stories per tape.
+		SS-001: Fairy Tales.
+		SS-002: Sing Along.
+		SS-003: X-rated. (well, that didn't take long...)
+		SS-004: Current Events.
+		SS-005: Gothic Romance. (that, too, didn't take long...)
+		SS-006: Adventure/Sci-Fi
+		$9.95 each. 10% off for 3 or more tapes at once.
+[Page 22] Advertisement from Computerware based out of Encinitas, CA
+	Software
+		Color Invaders, Color Pac Attack, Monitor, Adventure Games, Text Editors, Assemblers, PASCAL, Magikube,
+		Finance Programs, Color Data Organizer, Graphic Games, Disassembler
+	Hardware
+		32K RAM expansion board, 16K RAM Set, Cables, Interfaces, Power Pack ROM Cartridge, Printers
+	Accessories
+		Books, Cassettes, Supplies, Service Manuals
+	No pricing on the ad.
+[Page 23] The PIPELINE Rumor Mill...
+	Back issue delays. After the printing is complete, no more back issues except what's in stock.
+	Disk drive orders are delayed for short supply.
+		Drive 0 (meaning the first disk and controller ROM) is 60 days delayed.
+		Drive 1/2/3 are 90 days delayed.
+		Spectaculator (Visicalc clone on ROM cart) is due to be available by the end of December (of 1981, presumably..)
+		Investment Analysis should be out March 15th (1982)
+		Art Gallery should be out mid-December (1981)
+		Color Scripsit should be out December 15th (1981)
+		Editor Assembler (EDTASM) should be out February 28th (1982)
+	If you bought a Radio Shack Plotter, free disk to enhance the (expensive $1900) product in mid-December.
+	Radio Shack is quoting a 30-day delay on 32K RAM upgrades if you don't buy it while buying a new CoCo.
+[Page 23] Subscription for a year is still $12.
