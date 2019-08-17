@@ -249,6 +249,7 @@ Rainbow February 1982 - https://archive.org/details/rainbowmagazine-1982-02
 	Two fast-action ML games. Joysticks required, on cassettes.
 	Brickaway is $7.00, Gauntlet is $10.00, both for $14.00
 [Page 13] Advertisement from unknown publisher out of Staten Island, NY
+	(Seems to be Computer Island, later ad has same software.)
 	Software for children
 	Circus Adventure - 16K, many graphics, non-frustrating, only 10 minutes.
 	Music Marvel - Learn to play two songs, no reading, hi-res graphics, 16K Extended BASIC
@@ -365,7 +366,7 @@ Rainbow February 1982 - https://archive.org/details/rainbowmagazine-1982-02
 		Galloping Gamblers for $18.95
 		Gator Zone for $18.95
 		Micro-Math Skills Quiz for $12.95
-	Coupon, buy any two games and get any $12.95 game free. Expires March 1st, 1982. So much for that, huh?
+	Coupon, buy any two games and get any $12.95 game free. Expires March 1st, 1982.
 [Page 27] Advertisement from Land Systems of Bellbrook, OH
 	16K Extended Basic, Menu-Driven, Well-Documented, Easily-Modified
 	Available on disk or tape
@@ -416,3 +417,374 @@ Rainbow February 1982 - https://archive.org/details/rainbowmagazine-1982-02
 [Page 31] Advertisement from Cliff's Corner Computer out of Floyd's Knobs, IN.
 	16K Extended BASIC Color Computer units for $499, new in box.
 [Page 31] Subscription is still $12.
+
+Rainbow March 1982 - https://archive.org/details/rainbowmagazine-1982-03
+------------------
+
+[Page 1] Discussion about how few Model I/Apple big names show up in the CoCo software world and how the CoCo has
+	its own set of big names.
+[Page 3] Alternate speedup poke, disables keyboard/screen until slowdown poke used. This poke would later be routinely
+	used on the CoCo 3 because the new GIME chip for keyboard/screen wouldn't be disabled.
+[Page 4] Program listing: SKY-EYE game by Robert Dobbert.
+[Page 4] Advertisement for Colorterm by Martin Consulting. (Same as before)
+	Based out of Winnipeg, Canada.
+	Designed for 16K CoCo. Supports 51x21 and 64x21. Also supports lowercase.
+	300/110 Baud. User programmable keys. Key repeat. Dump files to host.
+	Reverse video. Partial screen clear. 4-way cursor control.
+	Save buffer, scroll through buffer.
+	Preserve a window of text, rest scrolls.
+	"Encode data for more secure storage" -- basic encryption?
+	Macro buffers for commonly sent output.
+	Patch own programs running above 9168 (23D0 hex) to use 51 or 64 column modes.
+	Comes on cassette with manual. US price is $34.95, Canada is $40.95
+[Page 6] Advertisement from Snake Mountain Software (same ad as before)
+	Graph Label -- 16K Extended BASIC - $7.95
+		Allows users to do graphics mode text, full cursor control, full ASCII charset.
+		Subscripts and superscripts supported.
+		Program can be used as subroutine or standalone.
+	Text Editor -- 16K Extended BASIC - $14.95
+		Full feature text editor with upper/lowercase. 42-char lines.
+		Adjustable tabs, text search/replace, block move.
+		Justification and proportional font support with Line Printer VII.
+	C.C. Pilot -- 4K or 16K - $4.95
+		Implementation of Pilot for CC. Features standard Pilot instructions with additional extensions for
+		the CoCo. Includes text editor and interpreter in one package. Comes with demo programs.
+	Fast Graphics Package -- All Machines -- $3.95
+		ML program that works twice as fast as Extended BASIC's graphics commands.
+		Line drawing, screen clearing, and pixel drawing commands.
+		Enables 4K machine to have a 128x64 graphics screen with 2K RAM free for BASIC use.
+[Page 7] Advertisement from Frank Hogg Laboratory based in Syracuse, NY
+ 	Discussion that some "32K" CoCo units actually have 64K chips and a 'trivial modification' will allow access
+	to the extra 32K. FLEX OS for disk system available now. Discussion on ALL-RAM mode.
+	CoCo + 64K RAM, 24K ROM, single RS floppy drive, and the FLEX OS is $1490.
+	FLEX itself with Edit, Asmb, and install disk is $199.
+[Page 8] Program listing: MOM #3: TAXTAB. Do your taxes on your CoCo.
+[Page 8] Advertisement from Colorsoft based in Greenville, TX
+	Offer for custom programming, royalties for software
+	4K Color BASIC programs
+		Invaders is $13.95
+		Dump (memory dump) is $8.95
+		Hangit (hangman game) is $7.95
+		Tag (2-player chase game) is $10.95
+	16K Color BASIC programs
+		Casino (one-armed bandit and dice games) is $12.95
+		Blackbox (find the hidden points by probing black box with projectile; puzzle game) is $9.95
+		Metric Converter is $9.95
+		Disassembler is $13.95
+		Auto Minder (Keep track of fuel usage, oil changes, etc) is $10.95
+	16K Extended Color BASIC programs
+		Furlong Derby is $9.95
+		Escape (graphic adventure) is $15.95
+		Saspus (randomly generated beginner adventure) is $8.95
+		Pirate Treasure (advanced adventure) is $11.95
+		Adventure Combo (Saspus+Pirate Treasure) is $16.95
+		Flipum (Othello) is $9.95
+		Flight Simulator (joystick required) is $11.95
+		Peek 'n' Spell spelling drill edugame is $10.95
+		Capitals Combo (name capitals drill) edugame is $25.95
+		Math Derby is $11.95
+		Loan (amortization calculator, works in 4K) is $10.95
+		Stock Analyzer is $16.95
+		Color Cube (Rubix Cube clone) is $17.95
+	Blank tapes
+		12x C-10 tapes for $6 or $8, can't tell for sure but looks like $8
+		12x C-30 tapes for $11.
+		Individual storage boxes for $2.40 per dozen.
+	Cassette Caddy for storing 12 tapes for $5.49
+[Page 9] Advertisement from Cer-Comp from Las Vegas, NV (same as last ad)
+	Co-Resident Editor/Assembler (CORES9) for $39.95
+		This outputs object code directly to memory or CLOADM-compatible tape format.
+	Text Editor for $19.95
+		Line/character oriented text editor. Supports tape.
+	System Monitor (TRSMON) for $19.95
+		2K system monitor with 9 debugging commands, tape load/save compatible with CLOADM.
+		Upload/download via RS232, terminal program up to 9600 baud support. Output to printer as well.
+[Page 10] Advertisement from Superior Graphic Software of Waynesville, NC
+	"Ex-IBMer for the first time makes available to the public his personal collection of superior CoCo programs"
+	12-minute talking graphic demonstration, show and tell on how CoCo works, plus 12 demos, all from 1 CLOAD, $24.95
+		This is on tape, 16K Extended BASIC required
+	Slot Machine is $24.95 (16K Extended BASIC or 32K DOS)
+	Black Jack is $24.95 (16K Extended BASIC or 32K DOS
+	Crap Table is $24.95 (16K Extended BASIC or 32K DOS)
+	All three gambling games for $49.95 (16K Extended BASIC or 32K DOS)
+	Checkbook is $39.95 (32K DOS)
+	Stock Portfolio Management is $69.95 (32K DOS)
+[Page 10] Advertisement from Micro-80 Inc from Oak Harbor, WA (same as previous ad)
+	Computer Cassettes and Audio Cassettes
+	Length / 12 Pak / 24 Pak
+	C-05 / $.69 / $.59
+	C-10 / $.79 / $.69
+	C-20 / $.99 / $.89
+	C-30 / $1.19 / $1.09
+	C-60 / $1.49 / $1.39
+	C-90 / $1.79 / $1.69
+[Page 11] Discussion of cross-promotional advertising betwen Color Computer News and Rainbow magazine.
+[Page 11] Seems that Dave Lagerquist of Chromasette is responsible for the short form CoCo for Color Computer.
+[Page 11] Advertisement from Moses Engineering Company from Greenville, SC
+	"Now the most complete list of educational CoCo programs in the United States!"
+	$4.00 per cassette
+	Partial list includes:
+		Add, Algebra, Alphabet, Planetary Positions, Biology, Weather Forecaster, Physics,
+		Flash Cards for German, French, Spanish, States and Capitals.
+	Featuring Computerized Encyclopedia (48 cassettes!) $200 with case
+		(Someone really needs to dig up a copy of this!)
+		Get Volume 1 for just $4
+	Many more, from K through Graduate. $4.00 each. Write for free list.
+[Page 12] Program Listing and Tutorial for pretty printing of REMarks using Epson printer.
+[Page 12] Advertisement from The Little Computer Store of Cincinnati (same as last ad)
+	Baker's Dozen sale on tapes to introduce their cheap blank computer tapes.
+	C-10 / 12+1 free for $.75 each, 24+2 free for $.65 each.
+	C-20 / 12+1 free for $.85 each, 24+2 free for $.75 each.
+[Page 13]  Advertisement from DSL Computer Products (not the same this month!)
+	MLRabbit for $14.95
+	Word CC7 for $19.95 (Req Extended BASIC)
+	Tube Cube for $9.95
+	Ultra-Mind (Mastermind clone) for $9.95, supports 4K machines too.
+	Offer to publish programd for CoCo with royalties.
+[Page 14] Brief article talking about memory sizes and BASIC types in terms of compatibility.
+	May seem obvious now, but wasn't to many new owners back in the day.
+[Page 15] Advertisement from Computerware (new ad)
+	Games
+		Arcade graphics, Strategy Adventure, Invaders, Pac Attack, Storm, Magikube, Cave Hunter, Berserk, Maze Race,
+		Calixto Island, Black Sanctum
+	Home and Work
+		Checkbook, Finance, Word Processing, Color Data Organizer, 3D Drawing Board, Mailing List
+	Programmer aids
+		PASCAL, Editor, Diagnostics, Monitor, Assembler
+	16K+Memory Expansion to 32K
+	Supplies, Printers, Modems, Books, Accessories
+[Page 16] Construct a desk for your CoCo.
+[Page 17] Errata: Program listing for DISK INDEX had an odd glitch where running the program would modify the
+	program code, replacing three statements with exclamation marks. Typing these lines as-is would not work, but
+	the lines would work correctly post-modification if done by the CoCo. Sounds like a problem with the LIST command?
+[Page 17] Advertisement from Computer Island from Staten Island, NY. (Seems to be the mystery from before)
+	Programs for kids
+	Circus Adventure - 16K, many graphics, non-frustrating, only 10 minutes. $10
+	Music Marvel - Learn to play two songs, no reading, hi-res graphics, 16K BASIC. $10
+	Poetry and Silly Sentences - Two program pak of fun reading aids. 4K. $10
+	Apartment Mystery. Simple adventure game. 4K. $6
+	The Amazing Wizard - Ask any question, blinks and thinks, gives amusing response. 4K. $6
+	Other tapes available. (suggests all programs on tape?)
+[Page 18] Review: TALKING GRAPHIC DEMO by Superior Graphic Software, $24.95
+[Page 18] Review: GAUNTLET by Britt Monk, $10
+[Page 18] Advertisement for Color Computer News by REMarkable Software. $21/year.
+[Page 19] Review: BRICKOUT and WORD GUESS Twinpack by Rainbow Connection Software. $11.95
+[Page 19] Article on relocating a number of ML apps.
+	VideoTex, 8-Bit Driver, Screen Print, Master Control, CBUG
+[Page 20] Article on speedup POKEs and stability, including details on why many first-gen units were not stable at 2MHz.
+[Page 20] Advertisement from Harmonycs from Salt Lake City, UT
+	Money Minder II (cassette) for $8.95 (requires 16K)
+		Written in BASIC
+	Game Set I - Three family fun games, 4K compatible, joysticks not required. (cassette) $7.95
+[Page 21] Advertisement from Spectral Associates. Same ad as December 1981.
+	RAMCharger 32K Upgrade, go from 16K to 32K. $79.95.
+	CompuVoice speech synth program, interfaces with BASIC/ML. $44.95
+	Madness and the Minotaur adventure game, ML, no Extended Basic requirement. $19.95
+	New Extended Basic games:
+		Sub Hunt for $14.95
+		Laser Attack for $10.95
+		Alcatraz II for $8.95
+		CROID. Eliza-type AI game. $12.95
+	Extended Basic not-required:
+		Space Invaders
+		Space War
+		"Fast, machine language", "Ext. Basic not required."
+		$21.95 each on tape, $25.95 each on disk.
+	SoundSource. "Store music or voice from a cassette tape in the computer and display it on the TV screen. Shorten it, lengthen it,
+		modify it and replay through the TV's sound system. Build and test your own sounds for games. No hardware mods needed." $24.95
+	The Facts. "At last, a complete description of the 'guts' of the Color Computer. Specs on ICs, schematics, theory,
+		programming examples." $14.95
+	Extended Basic games:
+		Lothar's Labyrinth (word search puzzle)
+		Battlefleet (Battleship clone)
+		Space Traders (Galactic trading game)
+		$14.95 each.
+	Utilities:
+		Editor/Assembler is $34.95
+		Super Monitor is $19.95
+		EPROM Programmer is $89.95
+		Magic Box (load Model I/Model III tapes into CoCo) is $24.95
+		Typing Tutor is $19.95
+		Text editor.. no price listed.
+[Page 22] Two-page Advertisement from Connection-80
+	Books:
+		The Color Computer Songbook (can't read price)
+		101 Color Computer Programming Tips & Tricks ($7.95)
+		Color Computer Graphics ($9.95)
+		55 MORE Color Computer Programs for the Home, School, and Office ($9.95)
+	Word Processing Lowerkit
+		Modkit replaces textmode graphics chars with lowercase, comes with cut-off switch to turn off.
+		No software install.
+		No soldering required. Optional European, Katakana, and Greek characters.
+		$79.95
+	Colorcom/e terminal is still $49.95 on ROM cartridge.
+[Page 24] Tutorial for "Motion Picture Programming" using a modified version of a "drawer" program
+	from Chromasette. Also uses GET/PUT BASIC commands.
+[Page 24] Advertisement for Scepter of Kzjrgla (sic!) by Rainbow Connection Software.
+		Real-time graphics adventure game with arcade sound. 16K Extended BASIC. $16.95 cassette, $21.95 disk
+	Also $26.95 cassette, $31.95 disk for two new multipaks:
+		#4901 - 5 games including Compumind, Brickout, B-17 Bomber, Blackjack
+		#4902 - 5 games including Starfighter, Biorhythm, Computration, Lunar Lander
+[Page 25] Review: BERSERK by Ron Krebs of Mark Data Products. $24.95
+[Page 26] PIPELINE rumor mill and small news tidbits:
+	A couple of the more-established names in the business are contracted to Tandy for official software.
+	Disk software is slow to market, but popping up more and more. Hardware orders still delayed.
+	Tandy is apparently having unprecedented demand for the CoCo at Christmas, causing delays.
+	Computerware has a 3D Drawing Board coming up. Also, two new games: MAZERACE and STORM. The latter has 135 levels.
+	Another floppy drive from a third party: CER-COMP has a three-in-one drive system, review coming soon.
+	ELECTRONIC SPECIALISTS has a "Super Isolator" surge protector for the CoCo with three outlets.
+	Some of the first CoCo-specific books are now available from CONNECTION-80, along with a lowercase kit.
+	CCWRITER from Transformation Technologies now supports the disk system. $5 upgrade for cassette owners.
+	TransTech is also adding database, mailing list, and checkbook programs to their lineup, on tape/disk both.
+	Rumor says Mark Data has another fast action game in the works that may be even better than BERSERK.
+		(history notes Mark Data did a lot of good CoCo games, so.. this definitely ended up being true.)
+	Has anyone received ANY order from Seebree's Computing? We'd like to know.
+		(Sounds like a fly-by-night? I'll edit this if/when I find more details. Could be interesting.)
+[Page 26] Advertisement from JARB Software (same as previous months..)
+		Laser Star and Helo Battle - $14.95
+		JARBCODE - $14.95
+		Psychic Aptitude Test and JARB Biorhythm - $14.95
+		JARB Printer Utility Kit - $14.95
+		Call or write for free catalog of available programs.
+		Rainbow subscribers get a $2 discount if they mention Rainbow.
+[Page 27]	Review of two Lunar Lander games
+	Moon Lander/Moon Lander 2 (both in one pack) from Tom Mix Software for $15.95
+	(name not mentioned) by American Small Business Computers for $14.95
+[Page 27] Advertisement from Warren Napier of Mars, PA
+	1981 Income Tax program. Follows 1040 and Schedules A and 9.
+	"Surprise lights and music to match your results!"
+	Cassette, 16K required, $9.95
+[Page 28] Telewriter advertisement from Cognitec (same as before)
+[Page 29] Review: Colorterm/e for $34.95
+[Page 29] POKEs for more free RAM with disk system
+[Page 29] Advertisement from Tom Mix Software
+	Moon Lander: 2 programs - a real treat! Take on Moon Lander, then move up to Moon Lander II.
+		EXT Basic required. $15.95
+	ML Rabbit: Make copies of any machine or BASIC program effortlessly. $14.95
+		(Caution: intended to make backup tapes only!)
+	Math Drill: (16K Ext BASIC) $19.95
+	Spelling Test: (16K Ext BASIC) $19.95
+	CCN Sampler Series $7.95
+	Connect Four (2P or VS CPU) 4K $12.95
+	3 Game Paks 4K $19.95 each Pak
+		Battleship, Othello, Life or Mastermind, Pig, Spidersweb
+[Page 30] Advertisement from Land Systems of Bellbrook, OH (ALMOST same as previous)
+	16K Extended Basic, Menu-Driven, Well-Documented, Easily-Modified
+	Available on disk or tape
+	Place order of at least $40 and get one extra item free.
+	Add $5 for disk versions.
+	Programs:
+		Furst is Data Element Dictionary driven File Update And Retrieval SysTem. $25
+		Mailing Labels. Designed for Line Printer VII. $20 (price went up $5)
+		Report Writer used with Furst to selectively format reports for printer. $15
+		Exercise Planner. $15
+		Disk Directory Print, prints hard copy of disk files. $5
+[Page 31] Program listing: Disk Directory Printout
+[Page 32] Program listing: Make CoCo act as DM's assistant for FRPs.
+[Page 32] Advertisement from Veico International from Cleveland, OH.
+	(Difficult to read ad, small text, low-res scan.)
+	Choose one game from list for $7, any three for $15
+	All games require only 4K, cassette and joystick required.
+		Slot Machine, Reflex, Black-jack, Craps, Roulette, Hang-man, Break-The-Code, Biorhythm,
+		Poker-Dice (Yahtzee-like), Luna-Lander, Tic-Tac-Dragon, Russian-Roulette
+	We also have Brickaway for $7 and Gauntlet (space game) for $10. Limited supply!
+[Page 33] Advertisement from TransTek (mostly same as before)
+	C. C. Writer word processor. 16K-32K cassette is $35, 32K disk is $40
+	(New!) Check Rec Plus - Reconcile checkbook and keep memos.
+		Prices until April 15th
+		16K Version is $25, 32K with extensive prompts for $30
+		16-32K Version on disk with prompts for $35
+[Page 35] Advertisement from Cer-Comp (same as before)
+	Color Computer Disk Upgrade using "Tall Grass Technology" double-density disk controller.
+	4 5.25" floppy drives, maximum of 3.2 megabytes of storage via double-sided 80-track disks.
+	CCMD+9 Disk Operating System for the new drive.
+		Three OSes in one.
+		#1 is freestanding OS with 11 commands to load/save, removing, changing, checking, analyzing, and
+		executing programs. Configurable for any mix of 35-track, 40-track, and 80-track drives.
+		#2 is completely supported external access system for interfacing with virtually any program needing the disk system.
+		#3 is a BASIC-compatible system conforming to standard tape and printer I/O routines.
+	Prices:
+		Controller with CCMD + 9 Eprom is $159.95
+		Disk controller only is $99.00
+		CCMD + 9 Dos on 2732 Eprom is $69.00
+		CCASM9 disk assembler is $34.95
+		CCEDT disk text editor is $24.95
+		CCDISS disk disassembler is $29.95
+		CCUTLY disk utilities is $19.95
+		CDTPRO Text processor is $39.95
+		CGAME1 HI-RES Graphic Game includes Space Invaders, Meteroids, Space Wars for $49.95
+		CGAME2 mixed game disk includes Battle Fleet, Space Traders, Adventure for $39.95
+[Page 36] Review: CIRCUS ADVENTURE from Computer Island. $10
+[Page 36] Advertisement from IMB (Illustrated Memory Banks)
+	We'll send you our bonus game of the month free when you buy any two games. (used to be SASE!)
+		Gator Zone for $18.95
+		Starbase Attack for $12.95
+		Meteor Storm for $12.95
+		Star Siege for $12.95
+		Kosmic Kamikaze for $18.95
+		Galloping Gamblers for $18.95
+[Page 37] Review: PAC ATTACK from Computerware, $19.95
+[Page 37] Review: ML Rabbit from DSL Computer Products, $14.95
+	Admonition to use this only for backups, not piracy in review.
+[Page 37] Advertisement from Cliff's Corner Computer out of Floyd's Knobs, IN. (same as prev.)
+	16K Extended BASIC Color Computer units for $499, new in box.
+[Page 38] Advertisement from AARDVARK-80 based out of Walled Lake, MI
+	Adventures for Trs-80 and CoCo
+		Each requires 16K, $14.95 each.
+		Escape from Mars by Rodger Olsen
+		Pyramid by Rodger Olsen
+		Trek Adventure by Bob Retelle
+		Death Ship by Rodger Olsen
+		Vampire Castle by Mike Bassman
+		Space Shuttle (one or two players) - $6.95
+		Killerbot (4K) joystick or keyboard - $9.95
+		Slashball (4K, one or two players) - $9.95
+		TIME TREK, real time real graphics Star Trek. $14.95
+		Starfighter, real time action game. $9.95
+		Battlefleet, Battleship clone. $9.95
+		Labyrinth - 16K Extended BASIC, 3D maze (used to be called Minos?) - $14.95
+			If this is a retitled version of Minos, it's $2 more expensive.
+		Quest - New Idea in Adventure Games
+			Quest is played on computer-generated map, gather men and supplies by combat, bargaining, exploration of ruins/tamples,
+			outright banditry. When sufficiently strong, attack Citadel of Moorlock in battle to the death. 2-5 hours gameplay.
+			Randomly generated. $14.95
+		Space Zapper - 16K Extended or 32K Disk. $14.95
+[Page 39] Program listing: Continental U.S.A from GEO/STUDIES series by Dave Hooper
+[Page 39] Advertisement from Sugar Software of Reynoldsburg, OH (same as previous ad)
+	Silly Syntax story game for 1-10 players. Create your own stories with the built-in editor or order story
+	tapes from selection below. Features include creating, modifying, printing, saving, and loading of stories.
+	Included is the main game, two stories, and user guide. $19.95. Requires Extended BASIC.
+	Silly Syntax story tapes:
+		Two stories per tape.
+		SS-001: Fairy Tales.
+		SS-002: Sing Along.
+		SS-003: X-rated.
+		SS-004: Current Events.
+		SS-005: Gothic Romance.
+		SS-006: Adventure/Sci-Fi
+		$9.95 each. 10% off for 3 or more tapes at once.
+[Page 40] Advertisement from Armadillo International Software based in Austin, TX
+	Colorforth - FORTH for CoCo. Doesn't require Extended BASIC or Disk System.
+		Comes with both cassette and disk in one purchase. Includes manual, editor, and more.
+		$49.95
+	Armadillo Bug - Machine Language Monitor. Doesn't need Extended BASIC. 16K. $14.95
+	Book: Starting Forth by Leo Brodie. 384 pages, softcover.
+	Badge: "Computers piss me off" - The official badge of programmers (so they claim) 2.25" yellow button. $1.50
+[Page 41] Advertisement for "80-U.S. - The TRS-80 Users Journal"
+	Covers TRS-80 Model 1, 2, 3, CoCo, and Pocket Computer.
+	Business articles, program listings in both BASIC and ML, and reviews.
+	$16 for 1 year, $31 for 2 years, $45 for 3 years. Cover price would be $20/year.
+	Bonus: Include payment with your order and receive one month for each year free (13 issues for price of 12, 26 for 24, etc)
+	Based out of Tacoma, Washington.
+[Page 42] Advertisement from Mark Data Products out of Mission Viejo, CA (same as previous ad)
+	Arcade games:
+		Cave Hunter, Color Berserk - run in 16K
+	Adventure games:
+		Calixto Island, The Black Sanctum - run in 16K
+	Adventures on 5.25 TSC FLEX disk (specify 6800 or 6809) - $24.95 Each
+	Both adventures on single disk - $39.95
+	Adventures for CoCo - $19.95 Each
+	Color Berserk for CoCo - $24.95
+	Cave Hunter for CoCo - $24.95
+[Page 43]	Review of Spectaculator from Tandy
+[Page 43] Subscription is still only $12 a year...
