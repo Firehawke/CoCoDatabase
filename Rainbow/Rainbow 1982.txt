@@ -504,7 +504,7 @@ Rainbow March 1982 - https://archive.org/details/rainbowmagazine-1982-03
 	12-minute talking graphic demonstration, show and tell on how CoCo works, plus 12 demos, all from 1 CLOAD, $24.95
 		This is on tape, 16K Extended BASIC required
 	Slot Machine is $24.95 (16K Extended BASIC or 32K DOS)
-	Black Jack is $24.95 (16K Extended BASIC or 32K DOS
+	Black Jack is $24.95 (16K Extended BASIC or 32K DOS)
 	Crap Table is $24.95 (16K Extended BASIC or 32K DOS)
 	All three gambling games for $49.95 (16K Extended BASIC or 32K DOS)
 	Checkbook is $39.95 (32K DOS)
@@ -788,3 +788,34 @@ Rainbow March 1982 - https://archive.org/details/rainbowmagazine-1982-03
 	Cave Hunter for CoCo - $24.95
 [Page 43]	Review of Spectaculator from Tandy
 [Page 43] Subscription is still only $12 a year...
+
+Rainbow April 1982 - https://archive.org/details/rainbowmagazine-1982-04
+------------------
+
+[Page 1] Talk about the upcoming Adventure-focused issue of Rainbow magazine. Little do they know this'll be the
+  first of many.
+[Page 4] First column of The Assembly Corner by Dennis Lewandowski (of DSL Computer Products)
+	This is a tutorial column on 6809 assembly language. Covers basic concepts like hexadecimal, bits, nibbles, bytes, data,
+	registers, what machine language is, etc.
+[Page 4] Advertisement from Prickly-Pear Software out of Tucson, AZ
+	The Great Word Game for $19.95, similar to Scrabble/Probe. 2-4 players.
+	Dungeons and Dragons Package for $19.95
+		Two programs. First displays your choice of 99 different rooms in graphics, with pools, pillars, stairs, etc.
+		Second generates complete characters with full stats.
+	Arithmetic Learning System. $19.95, Developed by teacher for use in first grade classroom. Also tested by author
+	  who teaches a university level course in elementary methods.
+	Household Helper. $14.95. Menu driven program, Converts to/from metric/imperial, convert recipes to more/less people,
+	  project gas costs, keep track of bills, and more.
+	Cassette tapes-- Best quality Agfa tape in 5-screw shells, C-12s $8.50 Doz. Add $1.50 per doz shipping.
+	Extra copies of documentation available for $1.50 each.
+[Page 5] Advertisement from Superior Graphic Software of Waynesville, NC (almost same ad as previous)
+	"Ex-IBMer for the first time makes available to the public his personal collection of superior CoCo programs"
+	12-minute talking graphic demonstration, show and tell on how CoCo works, plus 12 demos, all from 1 CLOAD, $24.95
+		This is on tape, 16K Extended BASIC required
+	Crap Table is $24.95 (16K Extended BASIC or 32K DOS)
+	Black Jack is $24.95 (16K Extended BASIC or 32K DOS)
+	Slot Machine is $24.95 (16K Extended BASIC or 32K DOS)
+	All three gambling games for $49.95 (16K Extended BASIC or 32K DOS)
+	MPP Tutorial is $34.95 (16K Extended BASIC or 32K DOS)
+	Checkbook is $39.95 (32K DOS)
+	Stock Portfolio Management is $69.95 (32K DOS)
