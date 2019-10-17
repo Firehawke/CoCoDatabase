@@ -819,3 +819,35 @@ Rainbow April 1982 - https://archive.org/details/rainbowmagazine-1982-04
 	MPP Tutorial is $34.95 (16K Extended BASIC or 32K DOS)
 	Checkbook is $39.95 (32K DOS)
 	Stock Portfolio Management is $69.95 (32K DOS)
+[Page 6] Advertisement from TransTek
+	C. C. Writer word processor. 16K-32K cassette is $35, 32K disk is $40
+	(New!) Check Rec Plus - Reconcile checkbook and keep memos.
+		16K/32K on cassette for $40
+		16/32K version on disk with prompts for $45
+	QUAD Data Base for $10, or $7 with other purchase.
+		Simple database, can print mailing labels.
+		16/32K on Cassette or Disk
+	C.C. Mailer
+		Upcoming release of mail merge addon for C.C. Writer
+[Page 7] Advertisement from Harmonycs from Salt Lake City, UT
+	Money Minder II (cassette) for $8.95 (requires 16K)
+		Written in BASIC
+	Game Set I - Three family fun games, 4K compatible, joysticks not required. (cassette) $7.95
+	Preschool Pak for $6.95 on cassette
+		Alphabet - Drills in alphabet recognition
+		Counter - Drills in counting up to 10
+		High res graphics, 16K Extended BASIC required.
+[Page 7] Advertisement from Tom Mix Software
+	Moon Lander: 2 programs - a real treat! Take on Moon Lander, then move up to Moon Lander II.
+		EXT Basic required. $15.95
+	ML Rabbit: Make copies of any machine or BASIC program effortlessly. $14.95
+		(Caution: intended to make backup tapes only!)
+	Math Drill: (16K Ext BASIC) $19.95
+	Spelling Test: (16K Ext BASIC) $19.95
+	Word Drill: Complete package by teacher, used in school. $19.95
+	(All three of above for $49.97)
+	Connect Four (2P or VS CPU) 4K $12.95
+	Casino: Three game pack (cassette), 5 Card Draw, Slots, Acey/Ducey. $14.95
+	Color Computer Dancing Devil: Tapdances to music, programmable. $14.95
+[Page 7] Program listing: 3DMAZE by Scott L. Bain.
+
